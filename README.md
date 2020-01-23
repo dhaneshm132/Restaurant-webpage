@@ -1,5 +1,5 @@
 # Restaurant-webpage
-Responsive website using CSS Grid and Flexbox
+Responsive webpage using CSS Grid and Flexbox
 
 In Laptop
 

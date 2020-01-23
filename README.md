@@ -1,4 +1,4 @@
-# Restaurant-website
+# Restaurant-webpage
 Responsive website using CSS Grid and Flexbox
 
 In Laptop
